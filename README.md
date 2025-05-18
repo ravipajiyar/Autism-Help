@@ -1,2 +1,2 @@
-# Autism_Mobileapp
-this is the mobile app for helping autism affected people
+# helping to autism affected person through this app
+this is the web app for helping autism affected people
